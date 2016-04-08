@@ -20,9 +20,6 @@ var services = [ {
     'url' : 'http://hello-helloworld-msa.rhel-cdk.10.1.2.2.xip.io/api/hello',
     'id' : 'hello-service'
 }, {
-    'url' : 'http://aloha-helloworld-msa.rhel-cdk.10.1.2.2.xip.io/api/aloha',
-    'id' : 'aloha-service'
-}, {
     'url' : 'http://ola-helloworld-msa.rhel-cdk.10.1.2.2.xip.io/api/ola',
     'id' : 'ola-service'
 }, {
